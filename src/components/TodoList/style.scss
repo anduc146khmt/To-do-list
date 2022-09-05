@@ -1,6 +1,20 @@
 * {
   padding: 10px 20px;
 }
+ul {
+  padding: 10px 0;
+}
+.todo-form {
+  margin:auto;
+}
+li {
+  margin: auto;
+  list-style: none;
+  box-shadow: rgb(0 0 0 / 16%) 0px 1px 4px;
+  width: 220px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
 li:hover {
   cursor: pointer;
   opacity: 0.8;

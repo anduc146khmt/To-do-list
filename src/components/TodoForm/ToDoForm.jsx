@@ -12,7 +12,7 @@ const ToDoForm = (props) => {
     setValue('');
   };
   return (
-    <div>
+    <div className="todo-form">
       <form onSubmit={handleSubmit}>
         <input type="text" value={value} onChange={handleChange}></input>
       </form>
