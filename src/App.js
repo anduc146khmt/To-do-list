@@ -1,5 +1,5 @@
-import ToDoForm from 'components/TodoForm/ToDoForm';
-import TodoList from 'components/TodoList/TodoList';
+import ToDoForm from 'components/TodoForm';
+import TodoList from 'components/TodoList';
 import React, { useState } from 'react';
 
 function App() {
