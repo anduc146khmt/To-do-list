@@ -1,5 +1,6 @@
 {
   "name": "todolist",
+  "homepage": "https://github.com/anduc146khmt",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
