@@ -1,6 +1,6 @@
 # To Do List
 
-It is just a simple To-Do List make with ReactJS
+It is just a simple To-Do List made with ReactJS
 
 # Deploy
 
